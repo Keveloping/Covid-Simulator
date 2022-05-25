@@ -1,0 +1,65 @@
+D:\SourceReposVS\Covid\Covid\bin\Debug\Covid.exe.config
+D:\SourceReposVS\Covid\Covid\bin\Debug\Covid.exe
+D:\SourceReposVS\Covid\Covid\bin\Debug\Covid.pdb
+D:\SourceReposVS\Covid\Covid\bin\Debug\aiv-fast2d.dll
+D:\SourceReposVS\Covid\Covid\bin\Debug\OpenTK.dll
+D:\SourceReposVS\Covid\Covid\bin\Debug\OpenTK.pdb
+D:\SourceReposVS\Covid\Covid\bin\Debug\OpenTK.xml
+D:\SourceReposVS\Covid\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+D:\SourceReposVS\Covid\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+D:\SourceReposVS\Covid\Covid\obj\Debug\Covid.csproj.CopyComplete
+D:\SourceReposVS\Covid\Covid\obj\Debug\Covid.exe
+D:\SourceReposVS\Covid\Covid\obj\Debug\Covid.pdb
+D:\SourceReposVS\Covid\Covid\bin\Debug\Assets\grey_ball.png
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\Assets\grey_ball.png
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.exe.config
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.exe
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.pdb
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\aiv-fast2d.dll
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.dll
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.pdb
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.xml
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csproj.CopyComplete
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.exe
+C:\Users\kevin\Desktop\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.pdb
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\Assets\grey_ball.png
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.exe.config
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.exe
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\Covid.pdb
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\aiv-fast2d.dll
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.dll
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.pdb
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\bin\Debug\OpenTK.xml
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.csproj.CopyComplete
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.exe
+D:\SourceReposVS\Covid_KevinReynoso\Covid\Covid\obj\Debug\Covid.pdb
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\Assets\grey_ball.png
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\Covid.exe.config
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\Covid.exe
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\Covid.pdb
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\aiv-fast2d.dll
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\OpenTK.dll
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\OpenTK.pdb
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\bin\Debug\OpenTK.xml
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\obj\Debug\Covid.csproj.CopyComplete
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\obj\Debug\Covid.exe
+C:\Users\kevin\Desktop\Kevin Personal\LAVORO STUFF\Covid Simulator\Covid\obj\Debug\Covid.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\Assets\grey_ball.png
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\Covid.exe.config
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\Covid.exe
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\Covid.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\aiv-fast2d.dll
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\OpenTK.dll
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\OpenTK.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\bin\Debug\OpenTK.xml
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\obj\Debug\Covid.csproj.AssemblyReference.cache
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\obj\Debug\Covid.csproj.CopyComplete
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\obj\Debug\Covid.exe
+C:\Users\reynoso\Desktop\Kevin Folder\Lezioni AIV Game Development 1 Anno\Covid Simulator\Covid\obj\Debug\Covid.pdb
